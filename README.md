@@ -1,24 +1,15 @@
-# Seminario2025
-Repositorio para la cursada 2025
+# Seminario 2025 - Folco Carril
+Repositorio para Seminario - 2025
 
-# Mi Proyecto Personal
+# Objetivo del repositorio
 
-Este repositorio contiene una página web desarrollada como práctica del curso de GitHub. Incluye HTML, CSS y JavaScript básicos.
+Este repositorio contiene un README de prueba para ver como funciona el FORK.
 
-## Características
-- Interfaz simple y responsive
-- Estilos modernos usando CSS Flexbox
-- Código comentado y estructurado
-
-## Cómo usarlo
-1. Clona el **repositorio**
-2. Abre `index.html` en tu _navegador_
-3. Personalízalo a tu gusto
-
-## Tecnologías utilizadas
+## Tecnologías
 - HTML5
 - CSS3
 - JavaScript
+- PHP
 
 ## Autor
-**Pablo Fernando Melissari**
+**Folco Carril**
